@@ -1,29 +1,41 @@
-name: Lomy Dome
-favicon: null
-layout_spectrum: 0.48634
-typography_spectrum: 0.09848
 title: Loy Dome
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.8125
+  rhythmicContrast: 0.5
   brandColors:
     - '#01010b'
     - '#32497b'
     - '#a06498'
     - '#ffffff'
     - '#f41635'
-  brandStrength: 0.8125
   lightness: 0.6992783492896706
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Lomy Dome
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.09848
+layout_spectrum: 0.9551972
