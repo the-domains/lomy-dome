@@ -1,0 +1,28 @@
+name: Lomy Dome
+favicon: null
+layout_spectrum: 0.6830758736468852
+typography_spectrum: 0.8633343130350113
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7652004349511117
+  lightness: 0.6992783492896706
+  saturation: 0.874042984098196
+  rhythmicContrast: 0.5040590916760266
+purpose: []
